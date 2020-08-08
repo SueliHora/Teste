@@ -1,0 +1,23 @@
+*{
+
+	margin:0;
+	padding: 0;
+}
+
+
+.menu{
+	width: 900px;
+	background-color: black;
+	margin:30px auto;
+	text-align: center;
+}
+.menu > a{
+	color: orange;
+	font-size: 20px;
+	margin:0 10px;
+	text-decoration: none;
+	/*border: 1px solid red; para todas
+	*/
+	border-right: 3px solid red;
+	padding-right:8px;
+}
